@@ -2,7 +2,6 @@ streamsync
 numpy
 pandas
 opencv-python-headless
-opencv-python
 requests
 Flask
 ultralytics
