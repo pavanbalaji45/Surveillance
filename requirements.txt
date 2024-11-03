@@ -1,12 +1,12 @@
 streamsync
-numpy==1.23.5  # Specify a compatible version
+numpy==1.23.5
 pandas
 opencv-python-headless
 requests
 Flask
 ultralytics
 deepface
-tensorflow==2.16.1  # Specify a compatible version
+tensorflow
 tf-keras
 torch
 tesseract
