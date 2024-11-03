@@ -1,0 +1,12 @@
+streamsync
+numpy
+pandas
+opencv-python
+requests
+Flask
+ultralytics
+deepface
+tensorflow==2.13.0
+tf-keras
+torch
+tesseract
