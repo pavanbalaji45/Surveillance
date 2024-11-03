@@ -1,0 +1,1 @@
+{"yolo_model": "yolov8n", "objects": ["person", "car", "dog", "bicycle", "cat"]}
