@@ -6,7 +6,7 @@ requests
 Flask
 ultralytics
 deepface
-tensorflow==2.13.0
+tensorflow
 tf-keras
 torch
 tesseract
